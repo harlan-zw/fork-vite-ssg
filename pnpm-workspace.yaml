@@ -19,7 +19,7 @@ catalog:
   p-queue: ^8.1.0
   pinia: ^3.0.1
   prettier: ^3.5.3
-  rollup: ^4.37.0
+  rollup: ^2.79.2
   tinyglobby: ^0.2.12
   tsx: ^4.19.3
   typescript: ^5.8.2
